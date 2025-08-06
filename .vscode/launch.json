@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "Stack",
+      "projectName": "DSA_2312f5e7"
+    },
+    {
+      "type": "java",
       "name": "Linear",
       "request": "launch",
       "mainClass": "Linear",
